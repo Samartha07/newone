@@ -28,6 +28,7 @@ dvdfdgcghcd
 drfgtyhusxdcfgvhb
 szxdcfvgwerdtfyg
 xcvbnedfgyhuertyu
+<<<<<<< HEAD
 awesrdtfygdxcfvgbh
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -54,3 +55,6 @@ fvgrefyerugfyregfg
 =======
 >>>>>>> Stashed changes
 >>>>>>> bf5c665 (fourth)
+=======
+awesrdtfygdxcfvgbh
+>>>>>>> f102827 (fifth)
