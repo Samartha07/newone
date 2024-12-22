@@ -4,6 +4,7 @@ cbgdhvfgcecfg
 vgdhvcgdhcv
 
 cgdvcgdvhvcghd
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 cbdgcvdv bc
 =======
@@ -19,3 +20,10 @@ szxdcfvgwerdtfyg
 xcvbnedfgyhuertyu
 awesrdtfygdxcfvgbh
 >>>>>>> Stashed changes
+=======
+cbdgcvdv bc
+
+dxfcghgesrdtfyguxcvbwaesrdtfygu
+szxdfcgvhertyuxcvbnerdftgyu
+wawserdtfgyxdcvbnjrdftgyhu
+>>>>>>> 205d2e3c28191b655bcdabfc55194b6d181dafbc
