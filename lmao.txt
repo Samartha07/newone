@@ -7,11 +7,17 @@ cgdvcgdvhvcghd
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 cbdgcvdv bc
 =======
 =======
 >>>>>>> feature-branch
+=======
+<<<<<<< Updated upstream
+cbdgcvdv bc
+=======
+>>>>>>> bf5c665 (fourth)
 cbdgcvdv bc
 
 vvgdfdteywgvcgd
@@ -23,6 +29,7 @@ drfgtyhusxdcfgvhb
 szxdcfvgwerdtfyg
 xcvbnedfgyhuertyu
 awesrdtfygdxcfvgbh
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> Stashed changes
 =======
@@ -44,3 +51,6 @@ fvgrefyerugfyregfg
 >>>>>>> feature-branch
 =======
 >>>>>>> 205d2e3 (seventh)
+=======
+>>>>>>> Stashed changes
+>>>>>>> bf5c665 (fourth)
